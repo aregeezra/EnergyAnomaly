@@ -1,9 +1,6 @@
 # EnergyAnomaly
 
 
-
-![customer churn](https://user-images.githubusercontent.com/110170707/181729174-9d61edf7-b0d3-44ff-8128-ebc019d4def1.png)
-
 I followed in this project the steps of the project management method called CRISP-DM. This method has undergone modifications aimed at the reality of a Data Science project and with that it was called CRISP-DS.
 
 CRISP-DS has the following steps with their respective courts:
